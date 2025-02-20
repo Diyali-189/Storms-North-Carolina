@@ -2,3 +2,5 @@ data/
 *.npy
 *.npy
 *.csv
+*.csv
+*.npy
